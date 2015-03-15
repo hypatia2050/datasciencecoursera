@@ -1,2 +1,2 @@
-# Coursera Data Scientisit's Toolbox: course project assignment 3
+# Coursera Data Scientist's Toolbox: Course Project Assignment 3
 ## This is a markdown file
